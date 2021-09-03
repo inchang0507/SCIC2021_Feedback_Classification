@@ -1,4 +1,4 @@
-# scic2021_Feedback_Classification
+# 제2회 삼성카드 데이터 분석 & 아이디어 공모전 - 고객 피드백 분류 모델 개발
 ***
 ## 1. 개요   
 
@@ -39,4 +39,5 @@
 - github.com/ssut/py-hanspell   
     
 ***
+※ 전체 3위(정확도 기준 1위)
 ※ 공모전 데이터인 관계로 데이터는 빼고 업로드, roberta_large 및 robert_small 모델은 용량상 제거 후 업로드
